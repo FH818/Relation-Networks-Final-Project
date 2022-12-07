@@ -20,4 +20,4 @@ We have also modified the repo to run on JAX instead of numpy.
 
 ## Results
 
-<img src="./PerformanceLogs.Screenshot.png" width="256">
+<img src="PerformanceLogs.Screenshot.png" width="256">
